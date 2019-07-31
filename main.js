@@ -30,7 +30,7 @@ const factorial = function (num) {
     result *= num;
 
     num--;
-  };
+  }
   return result;
 };
 
